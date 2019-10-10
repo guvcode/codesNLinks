@@ -1,0 +1,2 @@
+Potential switch replacment in Javascript
+https://dev.to/nebrius/a-new-coding-style-for-switch-statements-in-javascript-typescript-ipe
