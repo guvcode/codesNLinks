@@ -1,2 +1,6 @@
 Potential switch replacment in Javascript
 https://dev.to/nebrius/a-new-coding-style-for-switch-statements-in-javascript-typescript-ipe
+
+
+Deploy python to herolu
+https://medium.com/tech-insights/how-to-deploy-a-python-script-or-bot-to-heroku-in-5-minutes-a82de2d3ed40
